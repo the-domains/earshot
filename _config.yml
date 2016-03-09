@@ -2,6 +2,7 @@ name: EarShot
 favicon: null
 layout_spectrum: 0.8609269205480814
 typography_spectrum: 0.749187383800745
+title: EarShot
 cta:
   domain: null
   bucket: null
