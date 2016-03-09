@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EarShot]]></title>
+        <description><![CDATA[EarShot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 15:23:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/397e5b88-ac32-4a19-ad73-8eb10b33e67c.png">]]></description>
+            <link>undefinedwhen-people-ask-me-for-podcast-recommendations-i-always-sta/index.html</link>
+            <guid isPermaLink="false">cd5a9dc6-9185-4921-9f3b-122ab8bf5506</guid>
+            <pubDate>Wed, 09 Mar 2016 15:22:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
