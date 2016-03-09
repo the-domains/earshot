@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >
   When people ask me for podcast recommendations, I always start with
@@ -12,8 +12,8 @@ description: >
   struggle and survival. Scaling passed away in 2012, but her story shared on
 
   The Moth Podcast in 2009 holds up as an all time favorite.
-datePublished: '2016-03-09T16:04:54.950Z'
-dateModified: '2016-03-09T16:04:36.634Z'
+datePublished: '2016-03-09T18:06:10.995Z'
+dateModified: '2016-03-09T18:06:10.494Z'
 title: Lost At Sea
 author: []
 sourcePath: _posts/2016-03-09-when-people-ask-me-for-podcast-recommendations-i-always-sta.md
