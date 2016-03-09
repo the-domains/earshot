@@ -5,19 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'When people ask me for podcast recommendations, I always start with'
-datePublished: '2016-03-09T15:22:57.650Z'
-dateModified: '2016-03-09T15:22:33.967Z'
+description: >
+  When people ask me for podcast recommendations, I always start with
+
+  Lost at Sea by Deborah Scaling Kiley. An incredible story of adventure,
+  struggle and survival. Scaling passed away in 2012, but her story shared on
+
+  The Moth Podcast in 2009 holds up as an all time favorite.
+datePublished: '2016-03-09T15:23:31.715Z'
+dateModified: '2016-03-09T15:23:00.516Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-09-when-people-ask-me-for-podcast-recommendations-i-always-sta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-when-people-ask-me-for-podcast-recommendations-i-always-sta.md
-published: true
 url: when-people-ask-me-for-podcast-recommendations-i-always-sta/index.html
 _type: Article
 
