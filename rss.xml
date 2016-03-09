@@ -4,8 +4,18 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 18:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 18:06:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lost At Sea]]></title>
+            <description><![CDATA[<article><h1>Lost At Sea</h1><p>When people ask me for podcast recommendations, I always start with
+Lost at Sea by Deborah Scaling Kiley. An incredible story of adventure, struggle and survival. Scaling passed away in 2012, but her story shared on
+The Moth Podcast in 2009 holds up as an all time favorite.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/659693751b5e9d8ce3b6ddb3c1fa5f1bf3b9e8b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/earshot/when-people-ask-me-for-podcast-recommendations-i-always-sta/index.html</link>
+            <guid isPermaLink="false">cd5a9dc6-9185-4921-9f3b-122ab8bf5506</guid>
+            <pubDate>Wed, 09 Mar 2016 18:06:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rest Stop]]></title>
             <description><![CDATA[<article><h1>Rest Stop</h1><p>Rest Stop: A classic episode from the genius producers at This American Life. As billed on the epidsode description: "Nine radio producers. Two days. One rest stop on the New York State Thruway." These guys somehow find the most interesting people and tell their stories in a way that give you a feeling of Americana and nostalgia. </p></article>]]></description>
@@ -19,16 +29,6 @@
             <link>https://thegrid.ai/earshot/in-terms-of-heart-wrenching-stories-about-cancer-childhood/index.html</link>
             <guid isPermaLink="false">22d06f21-411f-4019-97f8-91ca0442a902</guid>
             <pubDate>Wed, 09 Mar 2016 16:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lost At Sea]]></title>
-            <description><![CDATA[<article><h1>Lost At Sea</h1><p>When people ask me for podcast recommendations, I always start with
-Lost at Sea by Deborah Scaling Kiley. An incredible story of adventure, struggle and survival. Scaling passed away in 2012, but her story shared on
-The Moth Podcast in 2009 holds up as an all time favorite.
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/659693751b5e9d8ce3b6ddb3c1fa5f1bf3b9e8b3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/earshot/when-people-ask-me-for-podcast-recommendations-i-always-sta/index.html</link>
-            <guid isPermaLink="false">cd5a9dc6-9185-4921-9f3b-122ab8bf5506</guid>
-            <pubDate>Wed, 09 Mar 2016 16:04:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
