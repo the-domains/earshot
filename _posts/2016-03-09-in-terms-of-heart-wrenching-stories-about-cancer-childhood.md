@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "In terms of heart wrenching stories about cancer, childhood and death, The Cathedral by Reply All takes the cake. I guarantee you'll ball your eyes out, but this is a must listen episode from the talented folks at Gimlet Media.\_"
-datePublished: '2016-03-09T18:15:46.387Z'
-dateModified: '2016-03-09T18:15:31.664Z'
+description: "In terms of heart wrenching stories about cancer, childhood and death, The Cathedral by Reply All takes the cake. I guarantee you'll ball your eyes out, but this is a must listen episode from the talented folks at Gimlet Media."
+datePublished: '2016-03-09T18:15:27.489Z'
+dateModified: '2016-03-09T18:14:53.205Z'
 title: The Cathedral
 author: []
 sourcePath: _posts/2016-03-09-in-terms-of-heart-wrenching-stories-about-cancer-childhood.md
