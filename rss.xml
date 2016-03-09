@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[EarShot]]></title>
         <description><![CDATA[EarShot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:23:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 15:24:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/397e5b88-ac32-4a19-ad73-8eb10b33e67c.png">]]></description>
-            <link>undefinedwhen-people-ask-me-for-podcast-recommendations-i-always-sta/index.html</link>
+            <link>https://thegrid.ai/earshot/when-people-ask-me-for-podcast-recommendations-i-always-sta/index.html</link>
             <guid isPermaLink="false">cd5a9dc6-9185-4921-9f3b-122ab8bf5506</guid>
-            <pubDate>Wed, 09 Mar 2016 15:22:57 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 15:23:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
