@@ -12,8 +12,8 @@ description: >
   struggle and survival. Scaling passed away in 2012, but her story shared on
 
   The Moth Podcast in 2009 holds up as an all time favorite.
-datePublished: '2016-03-09T15:23:31.715Z'
-dateModified: '2016-03-09T15:23:00.516Z'
+datePublished: '2016-03-09T15:47:28.954Z'
+dateModified: '2016-03-09T15:47:28.577Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-when-people-ask-me-for-podcast-recommendations-i-always-sta.md
@@ -31,8 +31,7 @@ _type: Article
 When people ask me for podcast recommendations, I always start with
 [Lost at Sea ][0]by [Deborah Scaling Kiley][1]. An incredible story of adventure, struggle and survival. Scaling passed away in 2012, but her story shared on
 [The Moth Podcast][2] in 2009 holds up as an all time favorite.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1957f64a-c81c-4336-81d2-3d2f49f3f5a5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/397e5b88-ac32-4a19-ad73-8eb10b33e67c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/659693751b5e9d8ce3b6ddb3c1fa5f1bf3b9e8b3.jpg)
 
 [0]: http://themoth.org/posts/stories/lost-at-sea
 [1]: https://en.wikipedia.org/wiki/Deborah_Scaling_Kiley
