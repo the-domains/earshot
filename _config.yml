@@ -1,6 +1,6 @@
 name: EarShot
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50314
 typography_spectrum: 0.1254
 title: 'EarShot: Must listen audio from the best storytellers on the internet'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#565656'
     - '#949494'
     - '#f4f4f4'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.0625
   saturation: 0.6875
   rhythmicContrast: 0.25
