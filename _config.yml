@@ -1,7 +1,7 @@
 name: EarShot
 favicon: null
-layout_spectrum: 0.50256
-typography_spectrum: 0.12884
+layout_spectrum: 0.99939
+typography_spectrum: 0.8325
 title: 'EarShot: Must listen audio from the best storytellers on the internet'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#192f3a'
-    - '#b4cc9d'
-    - '#b28a9d'
-    - '#b15198'
-    - '#2f593c'
-  brandStrength: 0.9375
-  lightness: 0.8125
-  saturation: 0.125
-  rhythmicContrast: 0.75
+    - '#000000'
+    - '#cdcdcd'
+    - '#565656'
+    - '#949494'
+    - '#f4f4f4'
+  brandStrength: 0.3125
+  lightness: 0.0625
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
