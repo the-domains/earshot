@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Roman Mars brings us the story about an audacious architecture undergrad who discovers a critical design flaw in a 59 story highrise in New York City. This story blows my mind thinking about "what could have been" if the winds were strong enough.'
-datePublished: '2016-03-09T23:08:23.217Z'
-dateModified: '2016-03-09T23:08:14.256Z'
+description: "Roman Mars\_via 99% Invisible brings us the story about an audacious architecture undergrad who discovers a critical design flaw in a 59 story highrise in New York City. This story blows my mind thinking about \"what could have been\" if the winds were strong enough."
+datePublished: '2016-03-17T18:17:45.457Z'
+dateModified: '2016-03-17T18:12:56.323Z'
 title: Structural Integrity
 author: []
+sourcePath: _posts/2016-03-09-structural-integrity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-structural-integrity.md
-published: true
 url: structural-integrity/index.html
 _type: Article
 
