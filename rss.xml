@@ -4,8 +4,15 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 19:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 20:17:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Living Room]]></title>
+            <description><![CDATA[<article><h1>The Living Room</h1><p>Diane Weipert - Voyeur Diane's new neighbors across the way never shut their curtains, and that was the beginning of an intimate, but very one-sided relationship. Diane Weipert is a writer and filmmaker. Produced by Briana Breen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaf8152b222a0c8ef248c9495bb16b36cb199e6d.jpg"></article>]]></description>
+            <link>http://loveandradio.org/2015/03/the-living-room/</link>
+            <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
+            <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[388: Rest Stop]]></title>
             <description><![CDATA[<article><h1>388: Rest Stop</h1><p>Nine radio producers. Two days. One rest stop on the New York State Thruway. In this show, we'll bring you stories of people who are just passing through, and people who are at the rest stop every day-working. One of them has worked there since 1969.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d4011086662465386a0836c4f3afada8be42fac.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://99percentinvisible.org/episode/structural-integrity/</link>
             <guid isPermaLink="false">9bccd735-f447-4054-bed4-a48352fc44aa</guid>
             <pubDate>Thu, 17 Mar 2016 18:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Living Room]]></title>
-            <description><![CDATA[<article><h1>The Living Room</h1><p>Diane Weipert - Voyeur Diane's new neighbors across the way never shut their curtains, and that was the beginning of an intimate, but very one-sided relationship. Diane Weipert is a writer and filmmaker. Produced by Briana Breen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaf8152b222a0c8ef248c9495bb16b36cb199e6d.jpg"></article>]]></description>
-            <link>http://loveandradio.org/2015/03/the-living-room/</link>
-            <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
-            <pubDate>Thu, 17 Mar 2016 18:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
