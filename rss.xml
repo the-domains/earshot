@@ -4,8 +4,15 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 19:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 19:52:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Cathedral]]></title>
+            <description><![CDATA[<article><h1>The Cathedral</h1><p>Ryan and Amy Green were facing the unfaceable: their youngest son, Joel was diagnosed with terminal cancer after his first birthday. Producer Sruthi Pinnamaneni tells the story of how Ryan and Amy stumble onto an unlikely way of processing their experience fighting alongside Joel: they decide to turn it into a video game.</p><img src="https://media2.wnyc.org/i/1200/627/l/80/1/2014_12_17_CathedralAtrium3.png"></article>]]></description>
+            <link>http://www.radiolab.org/story/cathedral/</link>
+            <guid isPermaLink="false">48dbdc2b-2764-4682-8ef6-b83699b2df7b</guid>
+            <pubDate>Thu, 17 Mar 2016 19:51:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lost At Sea]]></title>
             <description><![CDATA[<article><h1>Lost At Sea</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6cd502bea7e94a072eefe5039dd44a0b8d3eb5c.jpg"></article>]]></description>
