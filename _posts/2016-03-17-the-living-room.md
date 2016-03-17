@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://loveandradio.org'
   name: Loveandradio
-  favicon: 'http://loveandradio.org/favicon.ico'
   domain: loveandradio.org
+  url: 'http://loveandradio.org'
+  favicon: 'http://loveandradio.org/favicon.ico'
 keywords:
   - herren
   - untitled
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://loveandradio.org/2015/03/the-living-room/'
 title: The Living Room
-datePublished: '2016-03-17T18:15:12.916Z'
-dateModified: '2016-03-17T18:14:43.431Z'
+datePublished: '2016-03-17T20:17:24.655Z'
+dateModified: '2016-03-17T20:02:03.063Z'
 sourcePath: _posts/2016-03-17-the-living-room.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
