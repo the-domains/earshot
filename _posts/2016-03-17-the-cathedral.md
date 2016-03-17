@@ -1,44 +1,42 @@
 ---
+author: []
+related: []
+publisher:
+  url: 'http://www.radiolab.org'
+  name: radiolab
+  favicon: 'http://media.wnyc.org/static/img/favicon_radiolab.ico'
+  domain: www.radiolab.org
+keywords:
+  - audio
+  - cancer
+  - joel
+  - amy
+  - unfaceable
+  - zouhali-worrall
+  - osit
+  - eilis
+  - malika
+  - thankyouforplayingfilm
+description: 'Ryan and Amy Green were facing the unfaceable: their youngest son, Joel was diagnosed with terminal cancer after his first birthday. Producer Sruthi Pinnamaneni tells the story of how Ryan and Amy stumble onto an unlikely way of processing their experience fighting alongside Joel: they decide to turn it into a video game.'
+inLanguage: en
+app_links:
+  - namespace: twitter
+    type: iphone
+    id: '470219771'
+  - namespace: twitter
+    type: googleplay
+    id: org.wnyc.android
+isBasedOnUrl: 'http://www.radiolab.org/story/cathedral/'
+title: The Cathedral
+datePublished: '2016-03-17T19:51:47.083Z'
+dateModified: '2016-03-17T19:51:36.935Z'
+sourcePath: _posts/2016-03-17-the-cathedral.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://gimletmedia.com/episode/50-the-cathedral/'
-inLanguage: en
-starred: false
-keywords:
-  - sruthi
-  - joel
-  - amy
-  - ryan
-  - like
-  - game
-  - cathedral
-  - crying
-  - tumors
-  - cancer
-description: "In terms of heart wrenching stories about cancer,childhood and death, The Cathedral by Reply All takes the cake. I guarantee you'll ball your eyes out, but thisisa must listen episode from the talented folks at Gimlet Media."
-datePublished: '2016-03-17T19:24:58.007Z'
-dateModified: '2016-03-17T19:22:19.075Z'
-author: []
-related: []
-app_links: []
-title: The Cathedral
-sourcePath: _posts/2016-03-17-the-cathedral.md
-published: true
-authors: []
-publisher:
-  name: Gimlet Media
-  domain: gimletmedia.com
-  url: 'https://gimletmedia.com'
-  favicon: 'https://gimletmedia.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# The Cathedral
-
-In terms of heart wrenching stories about cancer,childhood and death, The Cathedral by Reply All takes the cake. I guarantee you'll ball your eyes out, but thisisa must listen episode from the talented folks at Gimlet Media.
-
-<article style=""><h1>" #50 The Cathedral</h1><p>Bringing the world into your tragedy.</p><img src="https://gimletmedia.com/wp-content/uploads/2016/01/The-Cathedral-FINAL.jpg" /></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76ff9f85-f1eb-4f31-8bea-47167d30bb3f.jpg)
+<article style=""><h1>The Cathedral</h1><p>Ryan and Amy Green were facing the unfaceable: their youngest son, Joel was diagnosed with terminal cancer after his first birthday. Producer Sruthi Pinnamaneni tells the story of how Ryan and Amy stumble onto an unlikely way of processing their experience fighting alongside Joel: they decide to turn it into a video game.</p><img src="https://media2.wnyc.org/i/1200/627/l/80/1/2014_12_17_CathedralAtrium3.png" /></article>
