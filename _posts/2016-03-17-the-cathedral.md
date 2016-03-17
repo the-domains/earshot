@@ -16,21 +16,21 @@ keywords:
   - crying
   - tumors
   - cancer
-description: Bringing the world into your tragedy.
-datePublished: '2016-03-17T19:22:09.851Z'
-dateModified: '2016-03-17T19:21:52.833Z'
+description: "In terms of heart wrenching stories about cancer,childhood and death, The Cathedral by Reply All takes the cake. I guarantee you'll ball your eyes out, but thisisa must listen episode from the talented folks at Gimlet Media."
+datePublished: '2016-03-17T19:24:58.007Z'
+dateModified: '2016-03-17T19:22:19.075Z'
 author: []
 related: []
 app_links: []
 title: The Cathedral
+sourcePath: _posts/2016-03-17-the-cathedral.md
+published: true
 authors: []
 publisher:
   name: Gimlet Media
   domain: gimletmedia.com
   url: 'https://gimletmedia.com'
   favicon: 'https://gimletmedia.com/favicon.ico'
-sourcePath: _posts/2016-03-17-the-cathedral.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
