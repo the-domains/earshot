@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Get a new podcast recommendation email once a week.
-datePublished: '2016-04-04T15:40:46.351Z'
-dateModified: '2016-04-04T15:40:07.224Z'
+description: Get a new podcast recommendation every Monday.
+datePublished: '2016-04-04T15:41:24.771Z'
+dateModified: '2016-04-04T15:40:54.920Z'
 title: The Monday Morning Earshot
 author: []
 sourcePath: _posts/2016-04-04-earshots-the-weekly-email.md
