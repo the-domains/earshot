@@ -4,7 +4,7 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 17:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:25:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[293: A Little Bit of Knowledge]]></title>
@@ -26,6 +26,13 @@
             <link>http://loveandradio.org/2015/03/the-living-room/</link>
             <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
             <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earshots - The Weekly Email]]></title>
+            <description><![CDATA[<h1>Earshots - The Weekly Email</h1>]]></description>
+            <link>https://thegrid.ai/earshot/earshots-the-weekly-email/index.html</link>
+            <guid isPermaLink="false">948a38ea-9172-43c5-956c-4fb8afa4e749</guid>
+            <pubDate>Mon, 04 Apr 2016 15:25:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[388: Rest Stop]]></title>
