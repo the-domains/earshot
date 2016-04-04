@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-04T15:34:16.805Z'
-dateModified: '2016-04-04T15:32:54.340Z'
+datePublished: '2016-04-04T15:39:30.073Z'
+dateModified: '2016-04-04T15:34:26.324Z'
 title: Earshots - The Weekly Email
 author: []
 sourcePath: _posts/2016-04-04-earshots-the-weekly-email.md
