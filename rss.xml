@@ -4,7 +4,7 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:43:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Monday Morning Earshot]]></title>
@@ -33,6 +33,13 @@
             <link>http://loveandradio.org/2015/03/the-living-room/</link>
             <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
             <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miss Manhattan - 99% Invisible]]></title>
+            <description><![CDATA[<article><h1>Miss Manhattan - 99% Invisible</h1><p>All over New York City, there is a woman in various states of undress, so baked into architecture that we barely even notice her.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4609c9b16b6137b9fce0c0a21fd028272ae8a1e3.jpg"></article>]]></description>
+            <link>http://99percentinvisible.org/episode/miss-manhattan/</link>
+            <guid isPermaLink="false">53a1ed29-4e5b-4e24-9630-b7c11d616d96</guid>
+            <pubDate>Mon, 04 Apr 2016 15:42:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[388: Rest Stop]]></title>
