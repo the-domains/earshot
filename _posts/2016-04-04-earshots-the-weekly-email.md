@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Get a new podcast recommendation every Monday.
-datePublished: '2016-04-04T15:41:24.771Z'
-dateModified: '2016-04-04T15:40:54.920Z'
+datePublished: '2016-04-04T15:44:15.516Z'
+dateModified: '2016-04-04T15:43:34.627Z'
 title: The Monday Morning Earshot
 author: []
 sourcePath: _posts/2016-04-04-earshots-the-weekly-email.md
