@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Get one of my favorite episodes every monday morning, via email. You can sign up below.'
-datePublished: '2016-04-05T02:20:34.283Z'
-dateModified: '2016-04-05T02:19:40.738Z'
+datePublished: '2016-04-05T13:52:08.742Z'
+dateModified: '2016-04-05T02:21:13.239Z'
 title: Monday Earshots
 author: []
 sourcePath: _posts/2016-04-05-monday-earshots.md
@@ -23,10 +23,10 @@ _type: Article
 
 ---
 # Monday Earshots
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64abc1ed-414f-4339-8a69-6c28fdc35dff.jpg)
 
 Get one of my favorite episodes every monday morning, via email. You can sign up below.
 
 [Get The Monday Earshot][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64abc1ed-414f-4339-8a69-6c28fdc35dff.jpg)
 
 [0]: https://tinyletter.com/Earshot
