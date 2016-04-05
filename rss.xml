@@ -4,8 +4,15 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 02:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 02:16:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monday Earshots]]></title>
+            <description><![CDATA[<article><h1>Monday Earshots</h1><p>Get one of my favorite episodes every monday morning, via email. You can sign up below.</p></article>]]></description>
+            <link>https://thegrid.ai/earshot/monday-earshots/index.html</link>
+            <guid isPermaLink="false">01b73c47-a42c-4268-a003-ef3ded99a131</guid>
+            <pubDate>Tue, 05 Apr 2016 02:16:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[293: A Little Bit of Knowledge]]></title>
             <description><![CDATA[<article><h1>293: A Little Bit of Knowledge</h1><p>Stories about the pitfalls of knowing just a little bit too little. Host Ira Glass describes the thing that we all do at some point: Talk expertly about something we don't actually know anything about. It's so common, explains This American Life contributing editor Nancy Updike, that some friends of hers invented an imaginary magazine devoted to such blathering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3923cd0c6543f346a3620ddd194ac21b3ef9a61a.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://loveandradio.org/2015/03/the-living-room/</link>
             <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
             <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monday Earshots]]></title>
-            <description><![CDATA[<article><h1>Monday Earshots</h1><p>Get one of my favorite episodes every monday morning, via email. You can sign up below.</p></article>]]></description>
-            <link>https://thegrid.ai/earshot/monday-earshots/index.html</link>
-            <guid isPermaLink="false">01b73c47-a42c-4268-a003-ef3ded99a131</guid>
-            <pubDate>Tue, 05 Apr 2016 02:15:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miss Manhattan - 99% Invisible]]></title>
