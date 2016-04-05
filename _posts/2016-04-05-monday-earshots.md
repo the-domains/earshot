@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Get one of my favorite episodes every monday
-datePublished: '2016-04-05T02:15:07.983Z'
-dateModified: '2016-04-05T02:13:54.353Z'
+description: 'Get one of my favorite episodes every monday morning, via email. You can sign up below.'
+datePublished: '2016-04-05T02:16:47.256Z'
+dateModified: '2016-04-05T02:15:10.398Z'
 title: Monday Earshots
 author: []
 authors: []
