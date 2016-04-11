@@ -4,7 +4,7 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 13:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 12:51:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Monday Earshots]]></title>
@@ -33,6 +33,13 @@
             <link>http://loveandradio.org/2015/03/the-living-room/</link>
             <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
             <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Song Exploder | Game of Thrones]]></title>
+            <description><![CDATA[<article><h1>Song Exploder | Game of Thrones</h1><p>"Game of Thrones (Main Title Theme)" Game of Thrones premiered on HBO in April 2011 and became the most watched show in HBO's history. The main title theme was written by Emmy-nominated composer Ramin Djawadi. In this episode, he'll break down the different elements in the piece, and how themes within the show inspired his composition and choice of instruments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69fbd07ac0ebc00ee05ee4539d367af2650e2e94.png"></article>]]></description>
+            <link>http://songexploder.net/ramin-djawadi</link>
+            <guid isPermaLink="false">6b1e193b-e0d8-448e-983e-6624999bcbb2</guid>
+            <pubDate>Mon, 11 Apr 2016 12:50:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Monday Earshot by Earshot]]></title>
@@ -68,13 +75,6 @@
             <link>http://themoth.org/posts/stories/lost-at-sea</link>
             <guid isPermaLink="false">a60f21ce-49ed-4592-b2d3-3c026939b66c</guid>
             <pubDate>Thu, 17 Mar 2016 19:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Structural Integrity - 99% Invisible]]></title>
-            <description><![CDATA[<article><h1>Structural Integrity - 99% Invisible</h1><p>When it was built in 1977, Citicorp Center (later renamed Citigroup Center, now called 601 Lexington) was, at 59 stories, the seventh-tallest building in the world. You can pick it out of the New York City skyline by its 45-degree angled top. But it's the base of the building that really makes the tower so unique.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cd42fb252f74c1123aa80cea6b5ac92f200f6a9.jpg"></article>]]></description>
-            <link>http://99percentinvisible.org/episode/structural-integrity/</link>
-            <guid isPermaLink="false">9bccd735-f447-4054-bed4-a48352fc44aa</guid>
-            <pubDate>Thu, 17 Mar 2016 18:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
