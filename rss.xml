@@ -4,8 +4,15 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 12:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 14:49:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Patient Zero - Updated]]></title>
+            <description><![CDATA[<article><h1>Patient Zero - Updated</h1><p>The greatest mysteries have a shadowy figure at the center-someone who sets things in motion and holds the key to how the story unfolds-Patient Zero. This hour, Radiolab hunts for Patient Zeroes of all kinds and considers the course of an ongoing outbreak.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4117a20e7e89d2c6485f95dff786d61ad7665f25.jpg"></article>]]></description>
+            <link>http://www.radiolab.org/story/patient-zero-updated/</link>
+            <guid isPermaLink="false">087de1b6-6db7-407d-a24c-c9511a736f5a</guid>
+            <pubDate>Mon, 18 Apr 2016 14:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monday Earshots]]></title>
             <description><![CDATA[<article><h1>Monday Earshots</h1><p>Get one of my favorite episodes every monday morning, via email. You can sign up below.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.radiolab.org/story/cathedral/</link>
             <guid isPermaLink="false">48dbdc2b-2764-4682-8ef6-b83699b2df7b</guid>
             <pubDate>Thu, 17 Mar 2016 19:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lost At Sea]]></title>
-            <description><![CDATA[<article><h1>Lost At Sea</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6cd502bea7e94a072eefe5039dd44a0b8d3eb5c.jpg"></article>]]></description>
-            <link>http://themoth.org/posts/stories/lost-at-sea</link>
-            <guid isPermaLink="false">a60f21ce-49ed-4592-b2d3-3c026939b66c</guid>
-            <pubDate>Thu, 17 Mar 2016 19:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
