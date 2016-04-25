@@ -4,8 +4,15 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 14:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 14:11:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Song Exploder | Sylvan Esso]]></title>
+            <description><![CDATA[<article><h1>Song Exploder | Sylvan Esso</h1><p>Sylvan Esso has two members, Amelia Meath and Nick Sanborn, who met while they were both working on other projects. Amelia asked Nick to do a remix of a song by the band she was in at the time, and when that remix was done, they both loved how it turned out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db5ab4255ff1af3f98084b191db01e24a1556b58.png"></article>]]></description>
+            <link>http://songexploder.net/sylvan-esso</link>
+            <guid isPermaLink="false">1a1753cd-c369-4c0f-a6f4-c6ccd95d1ffe</guid>
+            <pubDate>Mon, 25 Apr 2016 14:11:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Patient Zero - Updated]]></title>
             <description><![CDATA[<article><h1>Patient Zero - Updated</h1><p>The greatest mysteries have a shadowy figure at the center-someone who sets things in motion and holds the key to how the story unfolds-Patient Zero. This hour, Radiolab hunts for Patient Zeroes of all kinds and considers the course of an ongoing outbreak.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4117a20e7e89d2c6485f95dff786d61ad7665f25.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.thisamericanlife.org/radio-archives/episode/388/Rest-Stop</link>
             <guid isPermaLink="false">0d42d9ce-1d59-451c-9b33-c325551535ae</guid>
             <pubDate>Thu, 17 Mar 2016 19:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cathedral]]></title>
-            <description><![CDATA[<article><h1>The Cathedral</h1><p>Ryan and Amy Green were facing the unfaceable: their youngest son, Joel was diagnosed with terminal cancer after his first birthday. Producer Sruthi Pinnamaneni tells the story of how Ryan and Amy stumble onto an unlikely way of processing their experience fighting alongside Joel: they decide to turn it into a video game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03feb2dbda0063435361fe1f0eda77d2676cc4be.png"></article>]]></description>
-            <link>http://www.radiolab.org/story/cathedral/</link>
-            <guid isPermaLink="false">48dbdc2b-2764-4682-8ef6-b83699b2df7b</guid>
-            <pubDate>Thu, 17 Mar 2016 19:51:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
