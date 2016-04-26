@@ -4,7 +4,7 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 14:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 13:51:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Song Exploder | Sylvan Esso]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Subscribe]]></title>
+            <description><![CDATA[<article><h1>Subscribe</h1><p>Too lazy to visit our website? Get a hand-picked episode selected delivered to your inbox every week. 🙌</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39e7229-4f54-4eeb-b3b2-e2ea41c7cbb7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/earshot/subscribe/index.html</link>
+            <guid isPermaLink="false">887c8dcf-116f-4ba3-b336-f87e1cad186a</guid>
+            <pubDate>Tue, 26 Apr 2016 13:51:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Song Exploder | Game of Thrones]]></title>
             <description><![CDATA[<article><h1>Song Exploder | Game of Thrones</h1><p>"Game of Thrones (Main Title Theme)" Game of Thrones premiered on HBO in April 2011 and became the most watched show in HBO's history. The main title theme was written by Emmy-nominated composer Ramin Djawadi. In this episode, he'll break down the different elements in the piece, and how themes within the show inspired his composition and choice of instruments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69fbd07ac0ebc00ee05ee4539d367af2650e2e94.png"></article>]]></description>
             <link>http://songexploder.net/ramin-djawadi</link>
@@ -68,13 +75,6 @@
             <link>http://99percentinvisible.org/episode/miss-manhattan/</link>
             <guid isPermaLink="false">53a1ed29-4e5b-4e24-9630-b7c11d616d96</guid>
             <pubDate>Mon, 04 Apr 2016 15:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[388: Rest Stop]]></title>
-            <description><![CDATA[<article><h1>388: Rest Stop</h1><p>Nine radio producers. Two days. One rest stop on the New York State Thruway. In this show, we'll bring you stories of people who are just passing through, and people who are at the rest stop every day-working. One of them has worked there since 1969.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d4011086662465386a0836c4f3afada8be42fac.jpg"></article>]]></description>
-            <link>http://www.thisamericanlife.org/radio-archives/episode/388/Rest-Stop</link>
-            <guid isPermaLink="false">0d42d9ce-1d59-451c-9b33-c325551535ae</guid>
-            <pubDate>Thu, 17 Mar 2016 19:52:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
