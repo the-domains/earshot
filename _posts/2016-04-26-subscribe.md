@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Too lazy to visit our website? Get a hand-picked episode selected delivered to your inbox every week. \uD83D\uDE4C"
-datePublished: '2016-04-26T13:51:30.053Z'
-dateModified: '2016-04-26T13:50:35.591Z'
+datePublished: '2016-04-26T13:51:51.315Z'
+dateModified: '2016-04-26T13:51:39.376Z'
 title: Subscribe
 author: []
+sourcePath: _posts/2016-04-26-subscribe.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-subscribe.md
-published: true
 url: subscribe/index.html
 _type: Article
 
