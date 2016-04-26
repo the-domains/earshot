@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Too lazy to visit our website? Get a hand-picked episode selected delivered to your inbox every week. \uD83D\uDE4C"
-datePublished: '2016-04-26T14:12:28.935Z'
-dateModified: '2016-04-26T14:12:28.698Z'
+datePublished: '2016-04-26T14:17:26.562Z'
+dateModified: '2016-04-26T14:16:54.781Z'
 title: Subscribe
 author:
   - name: ''
@@ -24,11 +24,12 @@ url: subscribe/index.html
 _type: Article
 
 ---
-# Subscribe
+# [Subscribe][0]
 
 Too lazy to visit our website? Get a hand-picked episode selected delivered to your inbox every week. 🙌
 
-[🎙SUBSCRIBE🎙][0]
+[🎙SUBSCRIBE🎙][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39e7229-4f54-4eeb-b3b2-e2ea41c7cbb7.jpg)
 
-[0]: http://tinyletter.com/earshot
+[0]: xhttp://tinyletter.com/earshot
+[1]: http://tinyletter.com/earshot
