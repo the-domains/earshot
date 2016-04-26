@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Too lazy to visit our website? Get a hand-picked episode selected delivered to your inbox every week. \uD83D\uDE4C"
-datePublished: '2016-04-26T14:02:54.492Z'
-dateModified: '2016-04-26T13:56:06.353Z'
+datePublished: '2016-04-26T14:12:28.935Z'
+dateModified: '2016-04-26T14:12:28.698Z'
 title: Subscribe
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-26-subscribe.md
 published: true
 authors: []
@@ -29,4 +31,4 @@ Too lazy to visit our website? Get a hand-picked episode selected delivered to y
 [🎙SUBSCRIBE🎙][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39e7229-4f54-4eeb-b3b2-e2ea41c7cbb7.jpg)
 
-[0]: https://tinyletter.com/Earshot
+[0]: http://tinyletter.com/earshot
