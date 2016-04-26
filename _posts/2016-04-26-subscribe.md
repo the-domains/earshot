@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Too lazy to visit our website? Get a hand-picked episode selected delivered to your inbox every week. \uD83D\uDE4C"
-datePublished: '2016-04-26T14:17:26.562Z'
-dateModified: '2016-04-26T14:16:54.781Z'
+datePublished: '2016-04-26T14:19:15.265Z'
+dateModified: '2016-04-26T14:17:35.705Z'
 title: Subscribe
 author:
   - name: ''
