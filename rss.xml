@@ -4,8 +4,15 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 13:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 14:54:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[60 Words]]></title>
+            <description><![CDATA[<article><h1>60 Words</h1><p>(Original artwork & Radiolab logo by Lucy Engelman) This hour we pull apart one sentence, written in the hours after September 11th, 2001, that has led to the longest war in U.S. history. We examine how just 60 words of legal language have blurred the line between war and peace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef1fc57d58154a27f2a84cc45608a24a2658a41f.jpg"></article>]]></description>
+            <link>http://www.radiolab.org/story/60-words/</link>
+            <guid isPermaLink="false">24c08a3f-1db9-4aff-bd21-b369236bd102</guid>
+            <pubDate>Mon, 16 May 2016 14:53:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Moth | Stories | All At Sea]]></title>
             <description><![CDATA[<article><h1>The Moth | Stories | All At Sea</h1><p>Tim FitzHigham is a record breaking adventurer who sets off to cross the English Channel in a bath.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64ad6a2178ab06ce900fb8198894efba67b6c536.jpg"></article>]]></description>
@@ -61,20 +68,6 @@
             <link>http://loveandradio.org/2015/03/the-living-room/</link>
             <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
             <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[60 Words]]></title>
-            <description><![CDATA[<article><h1>60 Words</h1><p>(Original artwork & Radiolab logo by Lucy Engelman) This hour we pull apart one sentence, written in the hours after September 11th, 2001, that has led to the longest war in U.S. history. We examine how just 60 words of legal language have blurred the line between war and peace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef1fc57d58154a27f2a84cc45608a24a2658a41f.jpg"></article>]]></description>
-            <link>http://www.radiolab.org/story/60-words/</link>
-            <guid isPermaLink="false">7f797eb6-2ae8-4498-9283-b533518d7e17</guid>
-            <pubDate>Mon, 16 May 2016 13:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Song Exploder | Game of Thrones]]></title>
-            <description><![CDATA[<article><h1>Song Exploder | Game of Thrones</h1><p>"Game of Thrones (Main Title Theme)" Game of Thrones premiered on HBO in April 2011 and became the most watched show in HBO's history. The main title theme was written by Emmy-nominated composer Ramin Djawadi. In this episode, he'll break down the different elements in the piece, and how themes within the show inspired his composition and choice of instruments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69fbd07ac0ebc00ee05ee4539d367af2650e2e94.png"></article>]]></description>
-            <link>http://songexploder.net/ramin-djawadi</link>
-            <guid isPermaLink="false">6b1e193b-e0d8-448e-983e-6624999bcbb2</guid>
-            <pubDate>Mon, 11 Apr 2016 12:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
