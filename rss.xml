@@ -4,11 +4,18 @@
         <description><![CDATA[EarShot: Must listen audio from the best storytellers on the internet]]></description>
         <link>https://thegrid.ai/earshot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 17:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 20:31:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/earshot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Antibodies Part 1: CRISPR]]></title>
+            <description><![CDATA[<article><h1>Antibodies Part 1: CRISPR</h1><p>Antibodies Part 1: CRISPR (Photo Credit: NIH/NIAID/Flickr) Out drinking with a few biologists, Jad finds out about something called CRISPR. No, it's not a robot or the latest dating app, it's a method for genetic manipulation that is rewriting the way we change DNA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49e04f58e4226dc4c2d0eca27f7ce98b9f19c029.jpg"></article>]]></description>
+            <link>http://www.radiolab.org/story/antibodies-part-1-crispr/</link>
+            <guid isPermaLink="false">c8c7533b-43ed-42ff-9f3d-25cc75a5e938</guid>
+            <pubDate>Tue, 31 May 2016 20:31:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Upside of Quitting - Freakonomics]]></title>
-            <description><![CDATA[<article><h1>The Upside of Quitting - Freakonomics</h1><p>Season 1, Episode 5 You know the bromide: "a winner never quits, and a quitter never wins." To which Freakonomics Radio says ... Are you sure? Sometimes quitting is strategic, and sometimes it can be your best possible plan. That is the gist of our latest Freakonomics Radio podcast, "The Upside of Quitting."</p><img src="http://freakonomics.com/wp-content/uploads/2011/06/117223904.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Upside of Quitting - Freakonomics</h1><p>Season 1, Episode 5 You know the bromide: "a winner never quits, and a quitter never wins." To which Freakonomics Radio says ... Are you sure? Sometimes quitting is strategic, and sometimes it can be your best possible plan. That is the gist of our latest Freakonomics Radio podcast, "The Upside of Quitting."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5030a45aef6bbc18f0d933e371d1cf46f7b4df90.jpg"></article>]]></description>
             <link>http://freakonomics.com/podcast/new-freakonomics-radio-podcast-the-upside-of-quitting/</link>
             <guid isPermaLink="false">f9a3ae89-b5f6-4043-b7fe-e1611c77e638</guid>
             <pubDate>Mon, 23 May 2016 17:25:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://songexploder.net/the-postal-service</link>
             <guid isPermaLink="false">13fe0a2f-4a95-4d77-908a-5c46f783c842</guid>
             <pubDate>Mon, 21 Mar 2016 20:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Living Room]]></title>
-            <description><![CDATA[<article><h1>The Living Room</h1><p>Diane Weipert - Voyeur Diane's new neighbors across the way never shut their curtains, and that was the beginning of an intimate, but very one-sided relationship. Diane Weipert is a writer and filmmaker. Produced by Briana Breen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaf8152b222a0c8ef248c9495bb16b36cb199e6d.jpg"></article>]]></description>
-            <link>http://loveandradio.org/2015/03/the-living-room/</link>
-            <guid isPermaLink="false">0087debd-49e7-4ef1-a285-1fe002091c15</guid>
-            <pubDate>Thu, 17 Mar 2016 20:17:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
